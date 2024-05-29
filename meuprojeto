@@ -1,0 +1,41 @@
+nome:
+charadas
+o que-historia?
+um garoto que esta subindo em sua casa na arvore, mas durante o caminho acaba aparecendo personagens 
+fazendo perguntas simples, e com o passar das respostas o tempo de subida ate a sua casa na arvore,
+com respostas certas, o jogo termina feliz, com respostas erradas o jogo termina ruim. as perguntas tem 
+respostas que alteram o jogo do jogador.
+ex: o que é o que é, fica em baixo do chao e não esta vivo?
+-cadaver
+-zumbi
+- "nome do jogador"
+ai se apertar em cadaver e zumbi, aparece resposta errada e a tela fica preta com a imagem de um bicho ruim.
+se apertar o "nome do jogador", parece resposta certa e o jogador perde, pois é uma pergunta final.
+ex para final feliz: o que é o que é, escalou e escalou e chegou?
+- um bicho preguiça
+- formiga
+- "nome do jogador"
+
+como?
+o jogador vai subindo, respostas certas levam a um final feliz, respostas erradas
+levam a um final ruim.
+quando?
+5 aulas.
+quem?
+pc:garotinho 
+npc: personagens que perguntam.
+objetivo?
+chegar ate a casinha em segurança
+as regras?
+se o jogador ficar parado na escada, o tempo vai passando e se acabar ele perde, respostas erradas deixam
+a musica do jogo mais lenta, e respostas certas deixam a musica do jogo mais rapida.
+as dificuldes:
+o tempo de resposta das perguntas vai diminuindo com o passa do tempo.
+adaptatividade:
+
+elementos do acaso:
+respostas certas, respostas erradas.
+Habilidades do jogador:
+pensar, ser agil.
+feedback:
+finais, musica de fundo.
